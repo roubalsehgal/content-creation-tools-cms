@@ -18,5 +18,22 @@
     "logo": "https://images.unsplash.com/photo-1535016120720-40c646be5580?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
     "website": "https://example.com",
     "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "604dc8ac-0976-4f80-adff-9126cdddb517",
+    "features": [
+      "d"
+    ],
+    "pricing": {
+      "type": "paid",
+      "startingPrice": "11"
+    },
+    "featured": true,
+    "createdAt": "2025-01-16T20:27:23.637Z",
+    "name": "s",
+    "description": "s",
+    "category": "s",
+    "logo": "https://images.unsplash.com/photo-1735732519861-3b67d0aee297?q=80&w=3023&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "website": "https://example.com"
   }
 ]
