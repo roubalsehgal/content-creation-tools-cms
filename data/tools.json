@@ -18,25 +18,5 @@
     "logo": "https://images.unsplash.com/photo-1535016120720-40c646be5580?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
     "website": "https://example.com",
     "createdAt": "2024-01-01T00:00:00.000Z"
-  },
-  {
-    "id": "2",
-    "name": "DesignFlow AI",
-    "description": "Create stunning designs with AI assistance",
-    "category": "Graphic Design",
-    "features": [
-      "AI Generation",
-      "Template Library",
-      "Brand Kit",
-      "Collaboration"
-    ],
-    "pricing": {
-      "type": "paid",
-      "startingPrice": 29.99
-    },
-    "featured": true,
-    "logo": "https://images.unsplash.com/photo-1558655146-9f40138edfeb?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
-    "website": "https://example.com",
-    "createdAt": "2024-02-01T00:00:00.000Z"
   }
 ]
