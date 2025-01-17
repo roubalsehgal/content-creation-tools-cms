@@ -18,7 +18,7 @@ jobs:
     # Step 2: Clone the `content-creation-tools` repository
     - name: Clone App Repo
       run: |
-        git clone https://github.com/your-username/content-creation-tools.git app-repo
+        git clone https://github.com/roubalsehgal/content-creation-tools.git app-repo
         cp tools.json blogs.json app-repo/src/data
         cd app-repo
         git config user.name "GitHub Action"
