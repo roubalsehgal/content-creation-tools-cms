@@ -58,5 +58,22 @@
     "logo": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
     "website": "https://example.com",
     "createdAt": "2024-03-01T00:00:00.000Z"
+  },
+  {
+    "id": "c4ce34c3-1eeb-4600-b5c1-07dd07f87545",
+    "features": [
+      "hey"
+    ],
+    "pricing": {
+      "type": "free",
+      "startingPrice": ""
+    },
+    "featured": false,
+    "createdAt": "2025-01-17T08:22:30.157Z",
+    "name": "Test",
+    "category": "AI",
+    "description": "This is a Test Tool",
+    "logo": "https://example.com",
+    "website": "https://example.com"
   }
 ]
