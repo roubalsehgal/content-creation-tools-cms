@@ -2,7 +2,7 @@
   {
     "id": "1",
     "name": "VideoMaster Pro AI",
-    "description": "Professional video editing suite with AI-powered features",
+    "description": "Professional video editing suite with AI-powered features and more",
     "category": "Video Editing",
     "features": ["AI Enhancement", "4K Support", "Cloud Storage", "Templates"],
     "pricing": { "type": "freemium", "startingPrice": 19.99 },
