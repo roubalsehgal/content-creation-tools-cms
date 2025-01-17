@@ -1,0 +1,32 @@
+name: Sync Data to App Repo
+
+on:
+  push:
+    paths:
+      - tools.json
+      - blogs.json
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+    # Step 1: Checkout the `content-creation-tools-DB` repository
+    - name: Checkout Data Repo
+      uses: actions/checkout@v3
+
+    # Step 2: Clone the `content-creation-tools` repository
+    - name: Clone App Repo
+      run: |
+        git clone https://github.com/your-username/content-creation-tools.git app-repo
+        cp tools.json blogs.json app-repo/src/data
+        cd app-repo
+        git config user.name "GitHub Action"
+        git config user.email "action@github.com"
+        git add data/
+        git commit -m "Update data from DB repo [$(date)]"
+        git push
+
+    # Step 3: Use Personal Access Token for authentication
+    env:
+      GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
