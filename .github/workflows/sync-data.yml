@@ -3,8 +3,8 @@ name: Sync Data to App Repo
 on:
   push:
     paths:
-      - tools.json
-      - blogs.json
+      - data/tools.json
+      - data/blogs.json
 
 jobs:
   sync:
