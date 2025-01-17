@@ -19,7 +19,7 @@ jobs:
     - name: Clone App Repo
       run: |
         git clone https://${{ secrets.ACCESS_TOKEN }}@github.com/roubalsehgal/content-creation-tools.git app-repo
-        cp tools.json blogs.json app-repo/src/data
+        cp data/tools.json data/blogs.json app-repo/src/data
         cd app-repo
         git config user.name "GitHub Action"
         git config user.email "action@github.com"
