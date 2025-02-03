@@ -58,5 +58,23 @@
     "logo": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
     "website": "https://example.com",
     "createdAt": "2024-03-01T00:00:00.000Z"
+  },
+  {
+    "id": "f1d6e004-8152-4475-b59f-e70ee924d76f",
+    "features": [
+      "Content Planning",
+      "Team Collaboration"
+    ],
+    "pricing": {
+      "type": "freemium",
+      "startingPrice": "10"
+    },
+    "featured": true,
+    "createdAt": "2025-02-03T18:34:38.086Z",
+    "name": "Notion",
+    "category": "Content Planning",
+    "description": "Notion is an all-in-one workspace that blends note-taking, task management, and collaboration tools. It allows content creators to organize their workflows, ideas, and projects with flexibility. With its customizable templates and real-time collaboration features, Notion is an essential tool for efficient content creation and team coordination.",
+    "website": "https://affiliate.notion.so/dyu5rht84451",
+    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1738608295541-notion.png"
   }
 ]
