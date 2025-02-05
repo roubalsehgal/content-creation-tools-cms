@@ -1,81 +1,22 @@
 [
   {
-    "id": "1",
-    "name": "VideoMaster Pro AI",
-    "description": "Professional video editing suite with AI-powered features and more",
-    "category": "Video Editing",
+    "id": "c9030600-fe4f-441e-a09e-4f2cd953af52",
     "features": [
-      "AI Enhancement",
-      "4K Support",
-      "Cloud Storage",
-      "Templates"
-    ],
-    "pricing": {
-      "type": "freemium",
-      "startingPrice": 19.99
-    },
-    "featured": false,
-    "logo": "https://images.unsplash.com/photo-1535016120720-40c646be5580?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
-    "website": "https://example.com",
-    "createdAt": "2024-01-01T00:00:00.000Z"
-  },
-  {
-    "id": "2",
-    "name": "DesignFlow AI",
-    "description": "Create stunning designs with AI assistance",
-    "category": "Graphic Design",
-    "features": [
-      "AI Generation",
-      "Template Library",
-      "Brand Kit",
-      "Collaboration"
+      "Social Media Management",
+      "Scheduling",
+      "Analytics"
     ],
     "pricing": {
       "type": "paid",
-      "startingPrice": 29.99
+      "startingPrice": "20"
     },
-    "featured": true,
-    "logo": "https://images.unsplash.com/photo-1558655146-9f40138edfeb?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
-    "website": "https://example.com",
-    "createdAt": "2024-02-01T00:00:00.000Z"
-  },
-  {
-    "id": "3",
-    "name": "ContentWriting AI",
-    "description": "AI-powered writing assistant for creators",
-    "category": "Writing",
-    "features": [
-      "AI Writing",
-      "Grammar Check",
-      "SEO Optimization",
-      "Plagiarism Check"
-    ],
-    "pricing": {
-      "type": "freemium",
-      "startingPrice": 9.99
-    },
-    "featured": true,
-    "logo": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
-    "website": "https://example.com",
-    "createdAt": "2024-03-01T00:00:00.000Z"
-  },
-  {
-    "id": "f1d6e004-8152-4475-b59f-e70ee924d76f",
-    "features": [
-      "Content Planning",
-      "Team Collaboration"
-    ],
-    "pricing": {
-      "type": "freemium",
-      "startingPrice": "10"
-    },
-    "featured": true,
-    "createdAt": "2025-02-03T18:34:38.086Z",
-    "name": "Notion",
-    "category": "Content Planning",
-    "description": "Notion is an all-in-one workspace that blends note-taking, task management, and collaboration tools. It allows content creators to organize their workflows, ideas, and projects with flexibility. With its customizable templates and real-time collaboration features, Notion is an essential tool for efficient content creation and team coordination.",
-    "website": "https://affiliate.notion.so/dyu5rht84451",
-    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1738608295541-notion.png"
+    "featured": false,
+    "createdAt": "2025-02-03T19:03:13.239Z",
+    "name": "Pallyy",
+    "category": "Social Media Tools",
+    "description": "Pallyy is a powerful social media management platform that enables you to schedule, publish, and analyze content seamlessly across various social channels. With its collaborative features, it’s perfect for teams looking to streamline their social media strategy and boost engagement effortlessly.",
+    "website": "https://pallyy.com/?via=contentcreationtools",
+    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1738609498476-pallyy.jpeg"
   },
   {
     "id": "4b13a70c-3be4-475b-95ad-80a964a07f51",
@@ -97,22 +38,21 @@
     "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1738609245446-post-bridge.png"
   },
   {
-    "id": "c9030600-fe4f-441e-a09e-4f2cd953af52",
+    "id": "f1d6e004-8152-4475-b59f-e70ee924d76f",
     "features": [
-      "Social Media Management",
-      "Scheduling",
-      "Analytics"
+      "Content Planning",
+      "Team Collaboration"
     ],
     "pricing": {
-      "type": "paid",
-      "startingPrice": "20"
+      "type": "freemium",
+      "startingPrice": "10"
     },
-    "featured": false,
-    "createdAt": "2025-02-03T19:03:13.239Z",
-    "name": "Pallyy",
-    "category": "Social Media Tools",
-    "description": "Pallyy is a powerful social media management platform that enables you to schedule, publish, and analyze content seamlessly across various social channels. With its collaborative features, it’s perfect for teams looking to streamline their social media strategy and boost engagement effortlessly.",
-    "website": "https://pallyy.com/?via=contentcreationtools",
-    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1738609498476-pallyy.jpeg"
+    "featured": true,
+    "createdAt": "2025-02-03T18:34:38.086Z",
+    "name": "Notion",
+    "category": "Content Planning",
+    "description": "Notion is an all-in-one workspace that blends note-taking, task management, and collaboration tools. It allows content creators to organize their workflows, ideas, and projects with flexibility. With its customizable templates and real-time collaboration features, Notion is an essential tool for efficient content creation and team coordination.",
+    "website": "https://affiliate.notion.so/dyu5rht84451",
+    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1738608295541-notion.png"
   }
 ]
