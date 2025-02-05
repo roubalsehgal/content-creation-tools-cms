@@ -29,7 +29,7 @@
       "type": "paid",
       "startingPrice": "9"
     },
-    "featured": false,
+    "featured": true,
     "createdAt": "2025-02-03T18:56:24.536Z",
     "name": "Post Bridge",
     "category": "Social Media Tools",
