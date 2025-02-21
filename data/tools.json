@@ -54,5 +54,23 @@
     "description": "Notion is an all-in-one workspace that blends note-taking, task management, and collaboration tools. It allows content creators to organize their workflows, ideas, and projects with flexibility. With its customizable templates and real-time collaboration features, Notion is an essential tool for efficient content creation and team coordination.",
     "website": "https://affiliate.notion.so/dyu5rht84451",
     "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1738608295541-notion.png"
+  },
+  {
+    "id": "31feab98-d1de-4c82-b8ff-0c287b0f2706",
+    "features": [
+      "AdCreation",
+      "Marketing Automation"
+    ],
+    "pricing": {
+      "type": "paid",
+      "startingPrice": "25"
+    },
+    "featured": true,
+    "createdAt": "2025-02-21T18:50:41.093Z",
+    "name": "AdCreative.ai",
+    "category": "Marketing",
+    "description": "AdCreative.ai is an AI-powered platform that generates high-converting ad creatives and social media content in seconds. It helps marketers and businesses create visually appealing, data-backed designs optimized for engagement and conversions, saving time and effort.",
+    "website": "https://www.adcreative.ai/",
+    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1740163947378-adcreative-ai.png"
   }
 ]
