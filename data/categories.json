@@ -26,5 +26,12 @@
     "color": "blue",
     "name": "Content Scheduling",
     "description": "Content Scheduling"
+  },
+  {
+    "id": "f5fd29e0-520e-4759-a576-82b37b00f706",
+    "type": "tool",
+    "color": "blue",
+    "name": "SEO",
+    "description": "SEO"
   }
 ]
