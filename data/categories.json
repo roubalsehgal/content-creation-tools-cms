@@ -12,5 +12,12 @@
     "color": "blue",
     "name": "Social Media",
     "description": "Social Media Tools"
+  },
+  {
+    "id": "88fb6bf1-6df7-4f5f-a994-328ded951294",
+    "type": "tool",
+    "color": "blue",
+    "name": "Productivity Tools",
+    "description": "For Productivity"
   }
 ]
