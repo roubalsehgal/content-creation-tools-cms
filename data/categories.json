@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "1958a1e4-16db-4287-b677-0cdc88441779",
+    "type": "tool",
+    "color": "blue",
+    "name": "Marketing",
+    "description": "Marketing Tools"
+  }
+]
