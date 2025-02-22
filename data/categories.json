@@ -42,10 +42,10 @@
     "description": "Graphic Design"
   },
   {
-    "id": "5dac5250-408f-40fc-894d-c468586cf611",
+    "id": "572d5cbd-4a45-4803-979a-215ac9258f63",
     "type": "tool",
-    "color": "red",
-    "name": "Video Editing",
-    "description": "Video Editing"
+    "color": "teal",
+    "name": "Podcasting",
+    "description": "Podcasting"
   }
 ]
