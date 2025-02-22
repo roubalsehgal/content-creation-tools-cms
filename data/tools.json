@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "id": "c30653f8-2814-4f7e-9082-310549391638",
+    "features": [
+      "Productivity",
+      "Project Management",
+      "Collaboration"
+    ],
+    "pricing": {
+      "type": "free",
+      "startingPrice": ""
+    },
+    "featured": true,
+    "createdAt": "2025-02-22T17:08:33.083Z",
+    "name": "Notion",
+    "category": "Productivity Tools",
+    "description": "Notion is the ultimate workspace for creators and teams to organize content, plan projects, and collaborate seamlessly. From content calendars to brainstorming ideas, this all-in-one tool keeps everything structured and accessible in one place. Stay productive, stay creative!",
+    "website": "https://affiliate.notion.so/dyu5rht84451",
+    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1740244225736-notion.png"
+  }
+]
