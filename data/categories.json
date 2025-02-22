@@ -40,5 +40,12 @@
     "color": "green",
     "name": "Graphic Design",
     "description": "Graphic Design"
+  },
+  {
+    "id": "5dac5250-408f-40fc-894d-c468586cf611",
+    "type": "tool",
+    "color": "red",
+    "name": "Video Editing",
+    "description": "Video Editing"
   }
 ]
