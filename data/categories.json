@@ -33,5 +33,12 @@
     "color": "blue",
     "name": "SEO",
     "description": "SEO"
+  },
+  {
+    "id": "7fedc3b7-a7ac-4ea8-9756-d62033efd87b",
+    "type": "tool",
+    "color": "green",
+    "name": "Graphic Design",
+    "description": "Graphic Design"
   }
 ]
