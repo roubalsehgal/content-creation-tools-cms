@@ -1,5 +1,24 @@
 [
   {
+    "id": "51f5916b-5855-493e-86dc-50a8d682f257",
+    "features": [
+      "Social Media Management",
+      "Automation",
+      "Content Scheduling"
+    ],
+    "pricing": {
+      "type": "paid",
+      "startingPrice": "9"
+    },
+    "featured": true,
+    "createdAt": "2025-02-22T17:14:01.370Z",
+    "name": "Post Bridge",
+    "category": "Content Scheduling",
+    "description": "Post Bridge is your go-to tool for effortless social media scheduling and automation. Plan, publish, and analyze content across multiple platforms, ensuring consistent engagement and growth. Simplify your workflow and maximize your social media impact with ease!",
+    "website": "https://post-bridge.com?atp=contentcreationtools",
+    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1740244552227-post-bridge.png"
+  },
+  {
     "id": "c30653f8-2814-4f7e-9082-310549391638",
     "features": [
       "Productivity",
@@ -19,22 +38,22 @@
     "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1740244225736-notion.png"
   },
   {
-    "id": "51f5916b-5855-493e-86dc-50a8d682f257",
+    "id": "ea5191ae-2fd7-45bc-b4ee-6d2ea7bf1017",
     "features": [
-      "Social Media Management",
+      "Social Media Scheduling",
       "Automation",
-      "Content Scheduling"
+      "Analytics"
     ],
     "pricing": {
       "type": "paid",
-      "startingPrice": "9"
+      "startingPrice": "20"
     },
-    "featured": true,
-    "createdAt": "2025-02-22T17:14:01.370Z",
-    "name": "Post Bridge",
+    "featured": false,
+    "createdAt": "2025-02-22T17:16:01.930Z",
+    "name": "Pallyy",
     "category": "Content Scheduling",
-    "description": "Post Bridge is your go-to tool for effortless social media scheduling and automation. Plan, publish, and analyze content across multiple platforms, ensuring consistent engagement and growth. Simplify your workflow and maximize your social media impact with ease!",
-    "website": "https://post-bridge.com?atp=contentcreationtools",
-    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1740244552227-post-bridge.png"
+    "description": "Pallyy is a feature-rich social media scheduling tool designed for creators and businesses. With an intuitive drag-and-drop calendar, automated posting, and in-depth analytics, it helps you streamline content planning and boost engagement effortlessly.",
+    "website": "https://pallyy.com/?via=contentcreationtools",
+    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1740244705436-pally.jpeg"
   }
 ]
