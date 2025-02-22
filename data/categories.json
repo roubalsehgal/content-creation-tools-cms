@@ -5,5 +5,12 @@
     "color": "blue",
     "name": "Marketing",
     "description": "Marketing Tools"
+  },
+  {
+    "id": "62195bf8-c0d8-495a-8892-b8187737ab17",
+    "type": "tool",
+    "color": "blue",
+    "name": "Social Media",
+    "description": "Social Media Tools"
   }
 ]
