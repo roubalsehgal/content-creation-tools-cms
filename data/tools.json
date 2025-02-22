@@ -1,5 +1,24 @@
 [
   {
+    "id": "ea5191ae-2fd7-45bc-b4ee-6d2ea7bf1017",
+    "features": [
+      "Social Media Scheduling",
+      "Automation",
+      "Analytics"
+    ],
+    "pricing": {
+      "type": "paid",
+      "startingPrice": "20"
+    },
+    "featured": false,
+    "createdAt": "2025-02-22T17:16:01.930Z",
+    "name": "Pallyy",
+    "category": "Content Scheduling",
+    "description": "Pallyy is a feature-rich social media scheduling tool designed for creators and businesses. With an intuitive drag-and-drop calendar, automated posting, and in-depth analytics, it helps you streamline content planning and boost engagement effortlessly.",
+    "website": "https://pallyy.com/?via=contentcreationtools",
+    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1740244705436-pally.jpeg"
+  },
+  {
     "id": "51f5916b-5855-493e-86dc-50a8d682f257",
     "features": [
       "Social Media Management",
@@ -38,22 +57,22 @@
     "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1740244225736-notion.png"
   },
   {
-    "id": "ea5191ae-2fd7-45bc-b4ee-6d2ea7bf1017",
+    "id": "2fc661f5-02b8-4515-95e4-0114555dbfca",
     "features": [
-      "Social Media Scheduling",
-      "Automation",
-      "Analytics"
+      "Ad Creation",
+      "AI-Powered Design",
+      "Marketing Automation"
     ],
     "pricing": {
       "type": "paid",
-      "startingPrice": "20"
+      "startingPrice": "25"
     },
-    "featured": false,
-    "createdAt": "2025-02-22T17:16:01.930Z",
-    "name": "Pallyy",
-    "category": "Content Scheduling",
-    "description": "Pallyy is a feature-rich social media scheduling tool designed for creators and businesses. With an intuitive drag-and-drop calendar, automated posting, and in-depth analytics, it helps you streamline content planning and boost engagement effortlessly.",
-    "website": "https://pallyy.com/?via=contentcreationtools",
-    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1740244705436-pally.jpeg"
+    "featured": true,
+    "createdAt": "2025-02-22T17:19:08.112Z",
+    "name": "AdCreative AI",
+    "category": "Marketing",
+    "description": "AdCreative.ai is an AI-powered platform that generates high-converting ad creatives and social media content in seconds. Perfect for marketers and businesses, it helps you create stunning visuals and data-driven ads optimized for engagement and conversions effortlessly.",
+    "website": "https://www.adcreative.ai/",
+    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1740244824929-adcreative-ai.png"
   }
 ]
