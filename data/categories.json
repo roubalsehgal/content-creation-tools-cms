@@ -22,7 +22,7 @@
   },
   {
     "id": "e7152205-2e27-4a13-8aed-6db81c4f3c59",
-    "type": "tool",
+    "type": "both",
     "color": "blue",
     "name": "Content Scheduling",
     "description": "Content Scheduling"
