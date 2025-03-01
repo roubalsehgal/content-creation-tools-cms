@@ -27,12 +27,12 @@
     "name": "AI Writing"
   },
   {
-    "id": "0a3c9023-661e-46e6-a591-c2505b0f78ac",
+    "id": "ac375e61-ae61-462f-8a06-37cc48c18048",
     "type": "tool",
     "color": "blue",
     "isTrending": false,
     "showInHero": false,
-    "icon": "Search",
-    "name": "SEO Tools"
+    "icon": "Palette",
+    "name": "Graphic Design"
   }
 ]
