@@ -16,5 +16,14 @@
     "showInHero": false,
     "icon": "Zap",
     "name": "Productivity Tools"
+  },
+  {
+    "id": "7605a550-85ea-474b-983d-9411b53662be",
+    "type": "tool",
+    "color": "blue",
+    "isTrending": true,
+    "showInHero": true,
+    "icon": "Pencil",
+    "name": "AI Writing"
   }
 ]
