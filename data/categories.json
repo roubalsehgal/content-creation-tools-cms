@@ -25,5 +25,14 @@
     "showInHero": true,
     "icon": "Pencil",
     "name": "AI Writing"
+  },
+  {
+    "id": "0a3c9023-661e-46e6-a591-c2505b0f78ac",
+    "type": "tool",
+    "color": "blue",
+    "isTrending": false,
+    "showInHero": false,
+    "icon": "Search",
+    "name": "SEO Tools"
   }
 ]
