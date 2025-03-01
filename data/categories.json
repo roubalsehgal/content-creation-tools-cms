@@ -7,5 +7,14 @@
     "showInHero": true,
     "icon": "Calendar",
     "name": "Content Scheduling"
+  },
+  {
+    "id": "08c2c4a8-c8e9-4a5e-a31e-53aeb7bfdb33",
+    "type": "tool",
+    "color": "blue",
+    "isTrending": false,
+    "showInHero": false,
+    "icon": "Zap",
+    "name": "Productivity Tools"
   }
 ]
