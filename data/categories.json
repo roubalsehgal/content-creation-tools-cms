@@ -43,5 +43,14 @@
     "showInHero": false,
     "icon": "Video",
     "name": "Video Editing"
+  },
+  {
+    "id": "28cde340-8cad-4ad3-b9ab-8cb2d756b302",
+    "type": "tool",
+    "color": "blue",
+    "isTrending": false,
+    "showInHero": false,
+    "icon": "Link",
+    "name": "Social Media"
   }
 ]
