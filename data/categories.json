@@ -47,5 +47,14 @@
     "color": "teal",
     "name": "Podcasting",
     "description": "Podcasting"
+  },
+  {
+    "id": "f0f2e6cc-5b64-4eda-b705-ff172b4c7dd2",
+    "type": "tool",
+    "color": "blue",
+    "isTrending": true,
+    "icon": "Award",
+    "name": "Testy",
+    "description": "g"
   }
 ]
