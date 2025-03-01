@@ -34,5 +34,14 @@
     "showInHero": false,
     "icon": "Palette",
     "name": "Graphic Design"
+  },
+  {
+    "id": "293705a8-af7e-4931-a7d2-f932fe871475",
+    "type": "tool",
+    "color": "blue",
+    "isTrending": false,
+    "showInHero": false,
+    "icon": "Video",
+    "name": "Video Editing"
   }
 ]
