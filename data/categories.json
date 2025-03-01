@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "906e2ca0-0536-467c-8226-03e0ddf16ebd",
+    "type": "tool",
+    "color": "blue",
+    "isTrending": true,
+    "showInHero": true,
+    "icon": "Calendar",
+    "name": "Content Scheduling"
+  }
+]
