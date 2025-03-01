@@ -55,6 +55,7 @@
     "isTrending": true,
     "icon": "Award",
     "name": "Testy",
-    "description": "g"
+    "description": "g",
+    "showInHero": true
   }
 ]
