@@ -170,27 +170,27 @@
     ]
   },
   {
-    "id": "cdfeed13-913d-43ce-82df-561807592706",
+    "id": "4075b8e0-3793-4c26-bef2-94de36d6a4de",
     "features": [
-      "No-Code Website Builder",
-      "AI-Powered Design & Animations",
-      "SEO-Optimized & Lightning-Fast Hosting"
+      "Text-Based Audio & Video Editing",
+      "AI-Powered Transcription & Overdub",
+      "Screen Recording & Podcast Editing"
     ],
     "pricing": {
       "type": "freemium",
-      "startingPrice": "5"
+      "startingPrice": "12"
     },
-    "featured": false,
-    "createdAt": "2025-03-02T11:51:14.435Z",
+    "featured": true,
+    "createdAt": "2025-03-02T11:55:04.344Z",
     "contentCreatorTypes": [
-      "UI/UX Designers",
-      "Graphic Designers",
-      "Course Creators"
+      "Podcasters",
+      "Video Editors",
+      "YouTubers"
     ],
-    "name": "Framer",
-    "category": "Website Builders",
-    "description": "Design and publish stunning websites with Framer! This no-code/low-code platform empowers creators to build interactive, high-performance sites with ease—perfect for designers, marketers, and developers.",
-    "website": "https://www.framer.com/",
-    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1740916388833-framer.png"
+    "name": "Descript",
+    "category": "Video Editing",
+    "description": "Edit audio and video like a doc with Descript! This AI-powered tool offers transcription, screen recording, and seamless editing, making content creation faster and more intuitive than ever.",
+    "website": "https://www.descript.com/",
+    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1740916640576-descript.png"
   }
 ]
