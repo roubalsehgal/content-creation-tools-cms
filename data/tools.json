@@ -1,5 +1,29 @@
 [
   {
+    "id": "c2f2bfd3-fb4c-44f2-a626-fadddd43e201",
+    "features": [
+      "Keyword Research & Rank Tracking",
+      "SEO Site Audits & Fix Suggestions",
+      "Backlink Analysis & Link Building"
+    ],
+    "pricing": {
+      "type": "paid",
+      "startingPrice": "117"
+    },
+    "featured": false,
+    "createdAt": "2025-03-02T10:41:33.031Z",
+    "contentCreatorTypes": [
+      "Bloggers",
+      "Affiliate Marketers",
+      "SEO Experts"
+    ],
+    "name": "SEM Rush",
+    "category": "SEO",
+    "description": "Boost your search rankings with SEMrush! This all-in-one SEO tool helps you find winning keywords, analyze competitors, and optimize content for higher organic traffic. Stay ahead with AI-powered insights!",
+    "website": "https://www.semrush.com/",
+    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1740912279036-semrush.png"
+  },
+  {
     "id": "2fc661f5-02b8-4515-95e4-0114555dbfca",
     "features": [
       "Ad Creation",
@@ -98,27 +122,27 @@
     ]
   },
   {
-    "id": "c2f2bfd3-fb4c-44f2-a626-fadddd43e201",
+    "id": "edd5a0fa-cbc0-4f15-bc19-746d6d4f2cab",
     "features": [
-      "Keyword Research & Rank Tracking",
-      "SEO Site Audits & Fix Suggestions",
-      "Backlink Analysis & Link Building"
+      "AI-powered Content Optimization",
+      "SERP Analyzer & Keyword Research ",
+      "On-Page SEO Audits & Recommendations"
     ],
     "pricing": {
       "type": "paid",
-      "startingPrice": "117"
+      "startingPrice": "79"
     },
     "featured": false,
-    "createdAt": "2025-03-02T10:41:33.031Z",
+    "createdAt": "2025-03-02T10:46:05.925Z",
     "contentCreatorTypes": [
       "Bloggers",
-      "Affiliate Marketers",
-      "SEO Experts"
+      "SEO Experts",
+      "Copywriters"
     ],
-    "name": "SEM Rush",
+    "name": "Surfer SEO",
     "category": "SEO",
-    "description": "Boost your search rankings with SEMrush! This all-in-one SEO tool helps you find winning keywords, analyze competitors, and optimize content for higher organic traffic. Stay ahead with AI-powered insights!",
-    "website": "https://www.semrush.com/",
-    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1740912279036-semrush.png"
+    "description": "Rank higher with data-driven SEO! Surfer SEO analyzes top-ranking pages and provides AI-powered recommendations to optimize your content for better search visibility. Perfect for content creators aiming for top spots!",
+    "website": "https://surferseo.com/",
+    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1740912450055-surfer-seo.png"
   }
 ]
