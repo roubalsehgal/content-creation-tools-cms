@@ -61,5 +61,14 @@
     "showInHero": false,
     "icon": "Search",
     "name": "SEO"
+  },
+  {
+    "id": "a64c461c-4bf9-4e9f-b27e-11092fa5ffb9",
+    "type": "tool",
+    "color": "blue",
+    "isTrending": false,
+    "showInHero": false,
+    "icon": "Mail",
+    "name": "Email Marketing"
   }
 ]
