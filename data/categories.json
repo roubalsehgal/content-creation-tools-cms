@@ -52,5 +52,14 @@
     "showInHero": false,
     "icon": "Link",
     "name": "Social Media"
+  },
+  {
+    "id": "f49e571d-ae44-476e-b328-874fdcb822c2",
+    "type": "tool",
+    "color": "blue",
+    "isTrending": false,
+    "showInHero": false,
+    "icon": "Search",
+    "name": "SEO"
   }
 ]
