@@ -13,10 +13,18 @@
     "featured": true,
     "createdAt": "2025-02-22T17:19:08.112Z",
     "name": "AdCreative AI",
-    "category": "Marketing",
+    "category": "Graphic Design",
     "description": "AdCreative.ai is an AI-powered platform that generates high-converting ad creatives and social media content in seconds. Perfect for marketers and businesses, it helps you create stunning visuals and data-driven ads optimized for engagement and conversions effortlessly.",
     "website": "https://www.adcreative.ai/",
-    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1740244824929-adcreative-ai.png"
+    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1740244824929-adcreative-ai.png",
+    "contentCreatorTypes": [
+      "Affiliate Marketers",
+      "Graphic Designers",
+      "YouTubers",
+      "Instagram Creators",
+      "Facebook Page Owners",
+      "Email Marketers"
+    ]
   },
   {
     "id": "ea5191ae-2fd7-45bc-b4ee-6d2ea7bf1017",
@@ -62,15 +70,7 @@
     "category": "Content Scheduling",
     "description": "Post Bridge is your go-to tool for effortless social media scheduling and automation. Plan, publish, and analyze content across multiple platforms, ensuring consistent engagement and growth. Simplify your workflow and maximize your social media impact with ease!",
     "website": "https://post-bridge.com?atp=contentcreationtools",
-    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1740244552227-post-bridge.png",
-    "contentCreatorTypes": [
-      "YouTubers",
-      "Instagram Creators",
-      "TikTok Creators",
-      "Twitter/X Creators",
-      "LinkedIn Creators",
-      "Facebook Page Owners"
-    ]
+    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1740244552227-post-bridge.png"
   },
   {
     "id": "c30653f8-2814-4f7e-9082-310549391638",
