@@ -1,5 +1,29 @@
 [
   {
+    "id": "edd5a0fa-cbc0-4f15-bc19-746d6d4f2cab",
+    "features": [
+      "AI-powered Content Optimization",
+      "SERP Analyzer & Keyword Research ",
+      "On-Page SEO Audits & Recommendations"
+    ],
+    "pricing": {
+      "type": "paid",
+      "startingPrice": "79"
+    },
+    "featured": false,
+    "createdAt": "2025-03-02T10:46:05.925Z",
+    "contentCreatorTypes": [
+      "Bloggers",
+      "SEO Experts",
+      "Copywriters"
+    ],
+    "name": "Surfer SEO",
+    "category": "SEO",
+    "description": "Rank higher with data-driven SEO! Surfer SEO analyzes top-ranking pages and provides AI-powered recommendations to optimize your content for better search visibility. Perfect for content creators aiming for top spots!",
+    "website": "https://surferseo.com/",
+    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1740912450055-surfer-seo.png"
+  },
+  {
     "id": "c2f2bfd3-fb4c-44f2-a626-fadddd43e201",
     "features": [
       "Keyword Research & Rank Tracking",
@@ -122,27 +146,27 @@
     ]
   },
   {
-    "id": "edd5a0fa-cbc0-4f15-bc19-746d6d4f2cab",
+    "id": "50b45ab1-bda5-49d6-bc0f-a8ea65bda71a",
     "features": [
-      "AI-powered Content Optimization",
-      "SERP Analyzer & Keyword Research ",
-      "On-Page SEO Audits & Recommendations"
+      "Email Automation & Sequences",
+      "Landing Pages & Opt-in Forms",
+      "Tag-based Subscriber Management"
     ],
     "pricing": {
-      "type": "paid",
-      "startingPrice": "79"
+      "type": "free",
+      "startingPrice": ""
     },
     "featured": false,
-    "createdAt": "2025-03-02T10:46:05.925Z",
+    "createdAt": "2025-03-02T10:55:46.612Z",
     "contentCreatorTypes": [
       "Bloggers",
-      "SEO Experts",
-      "Copywriters"
+      "Newsletter Writers",
+      "Email Marketers"
     ],
-    "name": "Surfer SEO",
-    "category": "SEO",
-    "description": "Rank higher with data-driven SEO! Surfer SEO analyzes top-ranking pages and provides AI-powered recommendations to optimize your content for better search visibility. Perfect for content creators aiming for top spots!",
-    "website": "https://surferseo.com/",
-    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1740912450055-surfer-seo.png"
+    "name": "ConvertKit",
+    "category": "Email Marketing",
+    "description": "Grow and engage your audience with ConvertKit! This powerful email marketing tool helps creators build automation, send targeted campaigns, and monetize their content effortlessly.",
+    "website": "https://kit.com/",
+    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1740913038517-convert-kit.png"
   }
 ]
