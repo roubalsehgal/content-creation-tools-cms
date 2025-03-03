@@ -1,5 +1,29 @@
 [
   {
+    "id": "4075b8e0-3793-4c26-bef2-94de36d6a4de",
+    "features": [
+      "Text-Based Audio & Video Editing",
+      "AI-Powered Transcription & Overdub",
+      "Screen Recording & Podcast Editing"
+    ],
+    "pricing": {
+      "type": "freemium",
+      "startingPrice": "12"
+    },
+    "featured": true,
+    "createdAt": "2025-03-02T11:55:04.344Z",
+    "contentCreatorTypes": [
+      "Podcasters",
+      "Video Editors",
+      "YouTubers"
+    ],
+    "name": "Descript",
+    "category": "Video Editing",
+    "description": "Edit audio and video like a doc with Descript! This AI-powered tool offers transcription, screen recording, and seamless editing, making content creation faster and more intuitive than ever.",
+    "website": "https://www.descript.com/",
+    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1740916640576-descript.png"
+  },
+  {
     "id": "50b45ab1-bda5-49d6-bc0f-a8ea65bda71a",
     "features": [
       "Email Automation & Sequences",
@@ -34,7 +58,7 @@
       "type": "paid",
       "startingPrice": "79"
     },
-    "featured": false,
+    "featured": true,
     "createdAt": "2025-03-02T10:46:05.925Z",
     "contentCreatorTypes": [
       "Bloggers",
@@ -44,7 +68,7 @@
     "name": "Surfer SEO",
     "category": "SEO",
     "description": "Rank higher with data-driven SEO! Surfer SEO analyzes top-ranking pages and provides AI-powered recommendations to optimize your content for better search visibility. Perfect for content creators aiming for top spots!",
-    "website": "https://surferseo.com/",
+    "website": "https://get.surferseo.com/yma3ql7b7gry",
     "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1740912450055-surfer-seo.png"
   },
   {
@@ -168,29 +192,5 @@
       "LinkedIn Creators",
       "Course Creators"
     ]
-  },
-  {
-    "id": "4075b8e0-3793-4c26-bef2-94de36d6a4de",
-    "features": [
-      "Text-Based Audio & Video Editing",
-      "AI-Powered Transcription & Overdub",
-      "Screen Recording & Podcast Editing"
-    ],
-    "pricing": {
-      "type": "freemium",
-      "startingPrice": "12"
-    },
-    "featured": true,
-    "createdAt": "2025-03-02T11:55:04.344Z",
-    "contentCreatorTypes": [
-      "Podcasters",
-      "Video Editors",
-      "YouTubers"
-    ],
-    "name": "Descript",
-    "category": "Video Editing",
-    "description": "Edit audio and video like a doc with Descript! This AI-powered tool offers transcription, screen recording, and seamless editing, making content creation faster and more intuitive than ever.",
-    "website": "https://www.descript.com/",
-    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1740916640576-descript.png"
   }
 ]
