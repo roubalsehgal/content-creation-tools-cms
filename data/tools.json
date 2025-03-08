@@ -199,5 +199,30 @@
       "LinkedIn Creators",
       "Course Creators"
     ]
+  },
+  {
+    "id": "0e3caeb3-59c8-498b-9484-f6b1cdd7d37d",
+    "features": [
+      "No-Code Builder",
+      "Database Integration",
+      "Custom Workflows"
+    ],
+    "pricing": {
+      "type": "freemium",
+      "startingPrice": "5"
+    },
+    "featured": false,
+    "createdAt": "2025-03-08T16:40:03.983Z",
+    "contentCreatorTypes": [
+      "UI/UX Designers",
+      "Course Creators",
+      "YouTubers",
+      "Bloggers"
+    ],
+    "name": "YCode",
+    "category": "Website Builders",
+    "description": "Build and launch responsive websites and web apps without coding using YCode! This intuitive no-code platform empowers creators to design, customize, and deploy with ease.",
+    "website": "https://www.ycode.com?ref=yPczWP10vucK",
+    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1741452145862-ycode.png"
   }
 ]
