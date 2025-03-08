@@ -163,10 +163,17 @@
     "featured": true,
     "createdAt": "2025-02-22T17:14:01.370Z",
     "name": "Post Bridge",
-    "category": "Content Scheduling",
+    "category": "Scheduling",
     "description": "Post Bridge is your go-to tool for effortless social media scheduling and automation. Plan, publish, and analyze content across multiple platforms, ensuring consistent engagement and growth. Simplify your workflow and maximize your social media impact with ease!",
     "website": "https://post-bridge.com?atp=contentcreationtools",
-    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1740244552227-post-bridge.png"
+    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1740244552227-post-bridge.png",
+    "contentCreatorTypes": [
+      "Instagram Creators",
+      "Facebook Page Owners",
+      "LinkedIn Creators",
+      "TikTok Creators",
+      "Twitter/X Creators"
+    ]
   },
   {
     "id": "c30653f8-2814-4f7e-9082-310549391638",
