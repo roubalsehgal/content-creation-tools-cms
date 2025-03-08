@@ -58,7 +58,7 @@
     "type": "tool",
     "color": "blue",
     "isTrending": false,
-    "showInHero": false,
+    "showInHero": true,
     "icon": "Search",
     "name": "SEO"
   },
