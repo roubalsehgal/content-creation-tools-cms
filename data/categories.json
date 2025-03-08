@@ -75,8 +75,8 @@
     "id": "d1701aed-5c10-4bdc-835e-05d6a8aabcd4",
     "type": "tool",
     "color": "blue",
-    "isTrending": true,
-    "showInHero": true,
+    "isTrending": false,
+    "showInHero": false,
     "icon": "Monitor",
     "name": "Website Builders"
   }
