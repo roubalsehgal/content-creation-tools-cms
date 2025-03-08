@@ -2,9 +2,9 @@
   {
     "id": "4075b8e0-3793-4c26-bef2-94de36d6a4de",
     "features": [
-      "Text-Based Audio & Video Editing",
-      "AI-Powered Transcription & Overdub",
-      "Screen Recording & Podcast Editing"
+      "Text-Based Video Editing",
+      "AI Transcription",
+      "Screen Recording"
     ],
     "pricing": {
       "type": "freemium",
