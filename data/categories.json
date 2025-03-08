@@ -39,8 +39,8 @@
     "id": "293705a8-af7e-4931-a7d2-f932fe871475",
     "type": "tool",
     "color": "blue",
-    "isTrending": false,
-    "showInHero": false,
+    "isTrending": true,
+    "showInHero": true,
     "icon": "Video",
     "name": "Video Editing"
   },
