@@ -79,5 +79,14 @@
     "showInHero": false,
     "icon": "Monitor",
     "name": "Website Builders"
+  },
+  {
+    "id": "689bd3ff-72d5-4f7c-a5df-13b0e43f92df",
+    "type": "blog",
+    "color": "blue",
+    "isTrending": false,
+    "showInHero": false,
+    "icon": "CheckCircle",
+    "name": "Website Building & Design Tools"
   }
 ]
