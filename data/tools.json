@@ -1,5 +1,30 @@
 [
   {
+    "id": "0e3caeb3-59c8-498b-9484-f6b1cdd7d37d",
+    "features": [
+      "No-Code Builder",
+      "Database Integration",
+      "Custom Workflows"
+    ],
+    "pricing": {
+      "type": "freemium",
+      "startingPrice": "5"
+    },
+    "featured": false,
+    "createdAt": "2025-03-08T16:40:03.983Z",
+    "contentCreatorTypes": [
+      "UI/UX Designers",
+      "Course Creators",
+      "YouTubers",
+      "Bloggers"
+    ],
+    "name": "YCode",
+    "category": "Website Builders",
+    "description": "Build and launch responsive websites and web apps without coding using YCode! This intuitive no-code platform empowers creators to design, customize, and deploy with ease.",
+    "website": "https://www.ycode.com?ref=yPczWP10vucK",
+    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1741452145862-ycode.png"
+  },
+  {
     "id": "4075b8e0-3793-4c26-bef2-94de36d6a4de",
     "features": [
       "Text-Based Video Editing",
@@ -201,28 +226,31 @@
     ]
   },
   {
-    "id": "0e3caeb3-59c8-498b-9484-f6b1cdd7d37d",
+    "id": "d518c56a-5b0a-4aa4-9105-4dfcfcccd4bc",
     "features": [
-      "No-Code Builder",
-      "Database Integration",
-      "Custom Workflows"
+      "Auto Subtitles",
+      "Text to Speech",
+      "Online Editing"
     ],
     "pricing": {
       "type": "freemium",
-      "startingPrice": "5"
+      "startingPrice": "12"
     },
     "featured": false,
-    "createdAt": "2025-03-08T16:40:03.983Z",
+    "createdAt": "2025-03-12T06:31:50.990Z",
     "contentCreatorTypes": [
-      "UI/UX Designers",
-      "Course Creators",
       "YouTubers",
-      "Bloggers"
+      "Instagram Creators",
+      "TikTok Creators",
+      "Video Editors",
+      "Course Creators",
+      "Podcasters",
+      "Twitch Streamers"
     ],
-    "name": "YCode",
-    "category": "Website Builders",
-    "description": "Build and launch responsive websites and web apps without coding using YCode! This intuitive no-code platform empowers creators to design, customize, and deploy with ease.",
-    "website": "https://www.ycode.com?ref=yPczWP10vucK",
-    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1741452145862-ycode.png"
+    "name": "VEED IO",
+    "category": "Video Editing",
+    "description": "Veed.io is an online video editing platform designed for creators, marketers, and businesses. With AI-powered features like auto-subtitles, text-to-speech, and one-click video enhancements, it simplifies video editing without the need for complex software. Perfect for quick, high-quality content creation.",
+    "website": "https://www.veed.io/",
+    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1741765672799-veedio.png"
   }
 ]
