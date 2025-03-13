@@ -1,5 +1,31 @@
 [
   {
+    "id": "f44ee312-4ee4-49e1-9f0d-256109335440",
+    "features": [
+      "AI Writing",
+      "Content Templates",
+      "Marketing Copy"
+    ],
+    "pricing": {
+      "type": "freemium",
+      "startingPrice": "49"
+    },
+    "featured": false,
+    "createdAt": "2025-03-13T09:25:11.886Z",
+    "contentCreatorTypes": [
+      "Copywriters",
+      "Email Marketers",
+      "SEO Experts",
+      "Affiliate Marketers",
+      "Bloggers"
+    ],
+    "name": "Copy AI",
+    "category": "AI Writing",
+    "description": "Copy.ai is an AI-powered writing tool that generates engaging marketing copy, blog posts, and social media content in seconds. With pre-built templates and AI-driven creativity, it helps businesses and creators craft high-converting content effortlessly.",
+    "website": "https://www.copy.ai/",
+    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1741857967145-copy-ai.png"
+  },
+  {
     "id": "19d12493-2562-4773-9f1f-9c47e50e3c8d",
     "features": [
       "AI Writing",
@@ -361,29 +387,29 @@
     ]
   },
   {
-    "id": "f44ee312-4ee4-49e1-9f0d-256109335440",
+    "id": "3e1e3837-6e17-4446-a143-14d2ec267515",
     "features": [
-      "AI Writing",
-      "Content Templates",
-      "Marketing Copy"
+      "AI Video Editing",
+      "Pre-Made Templates",
+      "Text-to-Video"
     ],
     "pricing": {
       "type": "freemium",
-      "startingPrice": "49"
+      "startingPrice": "28"
     },
     "featured": false,
-    "createdAt": "2025-03-13T09:25:11.886Z",
+    "createdAt": "2025-03-13T09:33:08.022Z",
     "contentCreatorTypes": [
-      "Copywriters",
-      "Email Marketers",
-      "SEO Experts",
-      "Affiliate Marketers",
-      "Bloggers"
+      "YouTubers",
+      "Instagram Creators",
+      "TikTok Creators",
+      "Video Editors",
+      "Course Creators"
     ],
-    "name": "Copy AI",
-    "category": "AI Writing",
-    "description": "Copy.ai is an AI-powered writing tool that generates engaging marketing copy, blog posts, and social media content in seconds. With pre-built templates and AI-driven creativity, it helps businesses and creators craft high-converting content effortlessly.",
-    "website": "https://www.copy.ai/",
-    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1741857967145-copy-ai.png"
+    "name": "InVideo AI",
+    "category": "Video Editing",
+    "description": "InVideo is an AI-powered online video editor designed for quick and professional content creation. With pre-made templates, AI script generation, and easy customization, it helps creators produce high-quality videos for social media, ads, and more.",
+    "website": "https://invideo.io/",
+    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1741858472262-invideo.png"
   }
 ]
