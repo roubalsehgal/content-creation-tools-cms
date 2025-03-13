@@ -88,5 +88,14 @@
     "showInHero": false,
     "icon": "CheckCircle",
     "name": "Website Building & Design Tools"
+  },
+  {
+    "id": "be7e1fa8-b714-43ad-8598-ffc10e760583",
+    "type": "tool",
+    "color": "blue",
+    "isTrending": false,
+    "showInHero": true,
+    "icon": "PenTool",
+    "name": "Transcription"
   }
 ]
