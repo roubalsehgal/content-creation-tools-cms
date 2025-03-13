@@ -1,5 +1,31 @@
 [
   {
+    "id": "3e1e3837-6e17-4446-a143-14d2ec267515",
+    "features": [
+      "AI Video Editing",
+      "Pre-Made Templates",
+      "Text-to-Video"
+    ],
+    "pricing": {
+      "type": "freemium",
+      "startingPrice": "28"
+    },
+    "featured": false,
+    "createdAt": "2025-03-13T09:33:08.022Z",
+    "contentCreatorTypes": [
+      "YouTubers",
+      "Instagram Creators",
+      "TikTok Creators",
+      "Video Editors",
+      "Course Creators"
+    ],
+    "name": "InVideo AI",
+    "category": "Video Editing",
+    "description": "InVideo is an AI-powered online video editor designed for quick and professional content creation. With pre-made templates, AI script generation, and easy customization, it helps creators produce high-quality videos for social media, ads, and more.",
+    "website": "https://invideo.io/",
+    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1741858472262-invideo.png"
+  },
+  {
     "id": "f44ee312-4ee4-49e1-9f0d-256109335440",
     "features": [
       "AI Writing",
@@ -171,7 +197,7 @@
       "type": "freemium",
       "startingPrice": "5"
     },
-    "featured": false,
+    "featured": true,
     "createdAt": "2025-03-08T16:40:03.983Z",
     "contentCreatorTypes": [
       "UI/UX Designers",
@@ -385,31 +411,5 @@
       "LinkedIn Creators",
       "Course Creators"
     ]
-  },
-  {
-    "id": "3e1e3837-6e17-4446-a143-14d2ec267515",
-    "features": [
-      "AI Video Editing",
-      "Pre-Made Templates",
-      "Text-to-Video"
-    ],
-    "pricing": {
-      "type": "freemium",
-      "startingPrice": "28"
-    },
-    "featured": false,
-    "createdAt": "2025-03-13T09:33:08.022Z",
-    "contentCreatorTypes": [
-      "YouTubers",
-      "Instagram Creators",
-      "TikTok Creators",
-      "Video Editors",
-      "Course Creators"
-    ],
-    "name": "InVideo AI",
-    "category": "Video Editing",
-    "description": "InVideo is an AI-powered online video editor designed for quick and professional content creation. With pre-made templates, AI script generation, and easy customization, it helps creators produce high-quality videos for social media, ads, and more.",
-    "website": "https://invideo.io/",
-    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1741858472262-invideo.png"
   }
 ]
