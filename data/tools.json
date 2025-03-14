@@ -122,7 +122,6 @@
       "Twitter/X Creators",
       "LinkedIn Creators",
       "YouTubers",
-      "Podcasters",
       "TikTok Creators"
     ],
     "name": "Publer",
@@ -436,30 +435,5 @@
       "LinkedIn Creators",
       "Course Creators"
     ]
-  },
-  {
-    "id": "e1d9d4d8-38e8-4e28-b528-fb9cf21023e5",
-    "features": [
-      "4K Video Recording",
-      "Uncompressed Audio",
-      "Remote Interviews"
-    ],
-    "pricing": {
-      "type": "freemium",
-      "startingPrice": "15"
-    },
-    "featured": true,
-    "createdAt": "2025-03-14T17:38:37.442Z",
-    "contentCreatorTypes": [
-      "Twitch Streamers",
-      "Course Creators",
-      "Podcasters",
-      "YouTubers"
-    ],
-    "name": "Riverside FM",
-    "category": "Podcasting",
-    "description": "Riverside.fm is a high-quality podcast and video recording platform designed for remote creators. It offers uncompressed audio and 4K video recording, ensuring professional-grade content with no lag. Ideal for podcasters, interviewers, and video creators.",
-    "website": "https://www.riverside.fm/?utm_campaign=campaign_5&utm_medium=affiliate&utm_source=rewardful&via=contentcreationtools",
-    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1741974036444-riverside-fm.png"
   }
 ]
