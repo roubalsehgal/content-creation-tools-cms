@@ -97,5 +97,14 @@
     "showInHero": true,
     "icon": "PenTool",
     "name": "Transcription"
+  },
+  {
+    "id": "9e1cc7d1-d1c0-464c-9b40-bad7e1547d5f",
+    "type": "tool",
+    "color": "blue",
+    "isTrending": false,
+    "showInHero": false,
+    "icon": "Mic",
+    "name": "Podcasting"
   }
 ]
