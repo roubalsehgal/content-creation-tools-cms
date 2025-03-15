@@ -106,5 +106,14 @@
     "showInHero": false,
     "icon": "Mic",
     "name": "Podcasting"
+  },
+  {
+    "id": "5e39540c-69e9-4b12-895c-58ec590768e4",
+    "type": "tool",
+    "color": "blue",
+    "isTrending": false,
+    "showInHero": false,
+    "icon": "FileText",
+    "name": "Form Builders"
   }
 ]
