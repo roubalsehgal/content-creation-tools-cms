@@ -487,29 +487,30 @@
     ]
   },
   {
-    "id": "dea83ae9-fa8d-498e-ac8f-2367b0303bdf",
+    "id": "00c7b9fe-9839-4eaf-b3a3-3f447353f96f",
     "features": [
-      "AI Transcription",
-      "Waveform Visuals",
-      "Automated Captions"
+      "AI Video Editing",
+      "Automatic Subtitles",
+      "Collaboration Tools"
     ],
     "pricing": {
-      "type": "paid",
-      "startingPrice": "7.99"
+      "type": "freemium",
+      "startingPrice": "16"
     },
     "featured": false,
-    "createdAt": "2025-03-17T15:17:15.743Z",
+    "createdAt": "2025-03-17T15:21:15.046Z",
     "contentCreatorTypes": [
       "YouTubers",
-      "Podcasters",
-      "Instagram Creators",
       "Video Editors",
-      "TikTok Creators"
+      "Podcasters",
+      "TikTok Creators",
+      "Instagram Creators",
+      "Course Creators"
     ],
-    "name": "Headliner",
+    "name": "KapWing",
     "category": "Podcasting",
-    "description": "Headliner is an AI-powered tool that helps creators turn audio into engaging social media videos. Perfect for podcasters, radio stations, and marketers, it automatically transcribes and enhances audio content with captions, animations, and waveforms.",
-    "website": "https://www.headliner.app/",
-    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1742224723773-headliner.png"
+    "description": "Kapwing is an all-in-one online video editor designed for creators who want to make engaging content quickly. With AI-powered tools, easy-to-use templates, and collaborative features, Kapwing simplifies video editing for individuals and teams alike.",
+    "website": "https://www.kapwing.com/",
+    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1742224975452-kapwing.png"
   }
 ]
