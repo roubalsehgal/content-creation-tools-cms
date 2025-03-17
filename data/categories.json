@@ -115,5 +115,14 @@
     "showInHero": false,
     "icon": "FileText",
     "name": "Form Builders"
+  },
+  {
+    "id": "9ae2a5fb-c23f-45c4-b255-2f2f0b4fdace",
+    "type": "blog",
+    "color": "blue",
+    "isTrending": false,
+    "showInHero": false,
+    "icon": "Mic",
+    "name": "Podcasting & Video Editing"
   }
 ]
