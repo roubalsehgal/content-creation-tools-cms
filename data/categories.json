@@ -124,5 +124,14 @@
     "showInHero": false,
     "icon": "Mic",
     "name": "Podcasting & Video Editing"
+  },
+  {
+    "id": "226b683d-5ac9-4624-8a61-527c362d3540",
+    "type": "tool",
+    "color": "blue",
+    "isTrending": false,
+    "showInHero": false,
+    "icon": "Monitor",
+    "name": "Screen Recording"
   }
 ]
