@@ -1,5 +1,30 @@
 [
   {
+    "id": "f14b5674-a9f2-4129-99f3-61f453298ab8",
+    "features": [
+      "Auto Zoom-Effects",
+      "Background Customisation",
+      "Convenient Video Editor"
+    ],
+    "pricing": {
+      "type": "one-time",
+      "startingPrice": "49.90"
+    },
+    "featured": false,
+    "createdAt": "2025-03-18T17:41:32.212Z",
+    "contentCreatorTypes": [
+      "YouTubers",
+      "Course Creators",
+      "Podcasters",
+      "Video Editors"
+    ],
+    "name": "Screen Charm",
+    "category": "Screen Recording",
+    "description": "ScreenCharm is a professional screen recording tool designed for creators who want to enhance their product demos and tutorials. It automatically tracks cursor movements, applying zoom effects to make videos more interactive. With customizable backgrounds and a built-in video editor, it simplifies the process of creating high-quality browser recordings.",
+    "website": "https://screencharm.com/",
+    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1742320086126-screen-charm.png"
+  },
+  {
     "id": "00c7b9fe-9839-4eaf-b3a3-3f447353f96f",
     "features": [
       "AI Video Editing",
@@ -512,30 +537,5 @@
       "LinkedIn Creators",
       "Course Creators"
     ]
-  },
-  {
-    "id": "f14b5674-a9f2-4129-99f3-61f453298ab8",
-    "features": [
-      "Auto Zoom-Effects",
-      "Background Customisation",
-      "Convenient Video Editor"
-    ],
-    "pricing": {
-      "type": "freemium",
-      "startingPrice": "49.90"
-    },
-    "featured": false,
-    "createdAt": "2025-03-18T17:41:32.212Z",
-    "contentCreatorTypes": [
-      "YouTubers",
-      "Course Creators",
-      "Podcasters",
-      "Video Editors"
-    ],
-    "name": "Screen Charm",
-    "category": "Screen Recording",
-    "description": "ScreenCharm is a professional screen recording tool designed for creators who want to enhance their product demos and tutorials. It automatically tracks cursor movements, applying zoom effects to make videos more interactive. With customizable backgrounds and a built-in video editor, it simplifies the process of creating high-quality browser recordings.",
-    "website": "https://screencharm.com/",
-    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1742320086126-screen-charm.png"
   }
 ]
