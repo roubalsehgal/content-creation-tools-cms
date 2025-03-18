@@ -1,5 +1,32 @@
 [
   {
+    "id": "00c7b9fe-9839-4eaf-b3a3-3f447353f96f",
+    "features": [
+      "AI Video Editing",
+      "Automatic Subtitles",
+      "Collaboration Tools"
+    ],
+    "pricing": {
+      "type": "freemium",
+      "startingPrice": "16"
+    },
+    "featured": false,
+    "createdAt": "2025-03-17T15:21:15.046Z",
+    "contentCreatorTypes": [
+      "YouTubers",
+      "Video Editors",
+      "Podcasters",
+      "TikTok Creators",
+      "Instagram Creators",
+      "Course Creators"
+    ],
+    "name": "KapWing",
+    "category": "Podcasting",
+    "description": "Kapwing is an all-in-one online video editor designed for creators who want to make engaging content quickly. With AI-powered tools, easy-to-use templates, and collaborative features, Kapwing simplifies video editing for individuals and teams alike.",
+    "website": "https://www.kapwing.com/",
+    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1742224975452-kapwing.png"
+  },
+  {
     "id": "6abbd493-d695-4777-969a-437aeef0a186",
     "features": [
       "AI Clipping",
@@ -487,30 +514,28 @@
     ]
   },
   {
-    "id": "00c7b9fe-9839-4eaf-b3a3-3f447353f96f",
+    "id": "f14b5674-a9f2-4129-99f3-61f453298ab8",
     "features": [
-      "AI Video Editing",
-      "Automatic Subtitles",
-      "Collaboration Tools"
+      "Auto Zoom-Effects",
+      "Background Customisation",
+      "Convenient Video Editor"
     ],
     "pricing": {
       "type": "freemium",
-      "startingPrice": "16"
+      "startingPrice": "49.90"
     },
     "featured": false,
-    "createdAt": "2025-03-17T15:21:15.046Z",
+    "createdAt": "2025-03-18T17:41:32.212Z",
     "contentCreatorTypes": [
       "YouTubers",
-      "Video Editors",
+      "Course Creators",
       "Podcasters",
-      "TikTok Creators",
-      "Instagram Creators",
-      "Course Creators"
+      "Video Editors"
     ],
-    "name": "KapWing",
-    "category": "Podcasting",
-    "description": "Kapwing is an all-in-one online video editor designed for creators who want to make engaging content quickly. With AI-powered tools, easy-to-use templates, and collaborative features, Kapwing simplifies video editing for individuals and teams alike.",
-    "website": "https://www.kapwing.com/",
-    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1742224975452-kapwing.png"
+    "name": "Screen Charm",
+    "category": "Screen Recording",
+    "description": "ScreenCharm is a professional screen recording tool designed for creators who want to enhance their product demos and tutorials. It automatically tracks cursor movements, applying zoom effects to make videos more interactive. With customizable backgrounds and a built-in video editor, it simplifies the process of creating high-quality browser recordings.",
+    "website": "https://screencharm.com/",
+    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1742320086126-screen-charm.png"
   }
 ]
