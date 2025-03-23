@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": "97c61c4b-2a81-468b-aa8c-7cc0ba2e0af7",
+    "tool_ids": [
+      "f14b5674-a9f2-4129-99f3-61f453298ab8",
+      "00c7b9fe-9839-4eaf-b3a3-3f447353f96f",
+      "6abbd493-d695-4777-969a-437aeef0a186"
+    ],
+    "createdAt": "2025-03-23T15:29:53.007Z",
+    "name": "New Test Stack",
+    "slug": "new-test-stack",
+    "description": "New "
+  }
+]
