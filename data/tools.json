@@ -1,5 +1,32 @@
 [
   {
+    "id": "205af4cf-a574-4ed5-81d3-e1bc2540336e",
+    "features": [
+      "Post Scheduling & Automation",
+      "AI-powered Post Ideas",
+      "Engagement tracking"
+    ],
+    "pricing": {
+      "type": "freemium",
+      "startingPrice": "5"
+    },
+    "featured": false,
+    "createdAt": "2025-03-30T09:37:14.208Z",
+    "contentCreatorTypes": [
+      "YouTubers",
+      "Instagram Creators",
+      "TikTok Creators",
+      "Twitter/X Creators",
+      "LinkedIn Creators",
+      "Facebook Page Owners"
+    ],
+    "name": "Buffer",
+    "category": "Scheduling",
+    "description": "Buffer is a user-friendly social media management platform designed to help individuals and businesses schedule posts, analyze performance, and manage multiple social accounts effortlessly. It simplifies content publishing and engagement across platforms like Twitter, LinkedIn, Instagram, and Facebook.",
+    "website": "https://buffer.com/",
+    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1743327543478-buffer.png"
+  },
+  {
     "id": "f14b5674-a9f2-4129-99f3-61f453298ab8",
     "features": [
       "Auto Zoom-Effects",
@@ -539,30 +566,32 @@
     ]
   },
   {
-    "id": "205af4cf-a574-4ed5-81d3-e1bc2540336e",
+    "id": "b3edf388-ae03-4a3d-bc4d-9740e727672f",
     "features": [
-      "Post Scheduling & Automation",
-      "AI-powered Post Ideas",
-      "Engagement tracking"
+      "Screenshot Mockups",
+      "Device Mockups",
+      "Customizable Templates"
     ],
     "pricing": {
-      "type": "freemium",
-      "startingPrice": "5"
+      "type": "one-time",
+      "startingPrice": "10"
     },
     "featured": false,
-    "createdAt": "2025-03-30T09:37:14.208Z",
+    "createdAt": "2025-03-30T12:31:01.200Z",
     "contentCreatorTypes": [
       "YouTubers",
       "Instagram Creators",
+      "Podcasters",
       "TikTok Creators",
       "Twitter/X Creators",
-      "LinkedIn Creators",
-      "Facebook Page Owners"
+      "Graphic Designers",
+      "UI/UX Designers",
+      "Newsletter Writers"
     ],
-    "name": "Buffer",
-    "category": "Scheduling",
-    "description": "Buffer is a user-friendly social media management platform designed to help individuals and businesses schedule posts, analyze performance, and manage multiple social accounts effortlessly. It simplifies content publishing and engagement across platforms like Twitter, LinkedIn, Instagram, and Facebook.",
-    "website": "https://buffer.com/",
-    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1743327543478-buffer.png"
+    "name": "Picyard",
+    "category": "Mockups Generator",
+    "description": "Picyard transforms ordinary screenshots into stunning visuals with just a few clicks. Whether you need polished mockups, professional device previews, or beautifully styled code snippets, Picyard makes the process effortless—no design skills required.",
+    "website": "https://www.picyard.in?via=contentcreationtools",
+    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1743338194674-picyard.png"
   }
 ]
