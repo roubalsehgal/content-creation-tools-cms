@@ -142,5 +142,14 @@
     "showInHero": false,
     "icon": "Zap",
     "name": "Vibe Marketing"
+  },
+  {
+    "id": "c0577002-3303-4497-a457-d0786d244867",
+    "type": "tool",
+    "color": "blue",
+    "isTrending": false,
+    "showInHero": false,
+    "icon": "Aperture",
+    "name": "Mockups Generator"
   }
 ]
