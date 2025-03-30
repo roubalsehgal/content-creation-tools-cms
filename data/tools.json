@@ -1,5 +1,34 @@
 [
   {
+    "id": "b3edf388-ae03-4a3d-bc4d-9740e727672f",
+    "features": [
+      "Screenshot Mockups",
+      "Device Mockups",
+      "Customizable Templates"
+    ],
+    "pricing": {
+      "type": "one-time",
+      "startingPrice": "10"
+    },
+    "featured": false,
+    "createdAt": "2025-03-30T12:31:01.200Z",
+    "contentCreatorTypes": [
+      "YouTubers",
+      "Instagram Creators",
+      "Podcasters",
+      "TikTok Creators",
+      "Twitter/X Creators",
+      "Graphic Designers",
+      "UI/UX Designers",
+      "Newsletter Writers"
+    ],
+    "name": "Picyard",
+    "category": "Mockups Generator",
+    "description": "Picyard transforms ordinary screenshots into stunning visuals with just a few clicks. Whether you need polished mockups, professional device previews, or beautifully styled code snippets, Picyard makes the process effortless—no design skills required.",
+    "website": "https://www.picyard.in?via=contentcreationtools",
+    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1743338194674-picyard.png"
+  },
+  {
     "id": "205af4cf-a574-4ed5-81d3-e1bc2540336e",
     "features": [
       "Post Scheduling & Automation",
@@ -566,32 +595,29 @@
     ]
   },
   {
-    "id": "b3edf388-ae03-4a3d-bc4d-9740e727672f",
+    "id": "9212aca4-3e18-40bf-8405-60a5a49823f4",
     "features": [
-      "Screenshot Mockups",
-      "Device Mockups",
-      "Customizable Templates"
+      "Screenshot Editing",
+      "Mockup Templates",
+      "Presets & Customization"
     ],
     "pricing": {
-      "type": "one-time",
-      "startingPrice": "10"
+      "type": "paid",
+      "startingPrice": "12"
     },
     "featured": false,
-    "createdAt": "2025-03-30T12:31:01.200Z",
+    "createdAt": "2025-03-30T12:38:07.643Z",
     "contentCreatorTypes": [
-      "YouTubers",
-      "Instagram Creators",
-      "Podcasters",
-      "TikTok Creators",
-      "Twitter/X Creators",
-      "Graphic Designers",
       "UI/UX Designers",
+      "Graphic Designers",
+      "Instagram Creators",
+      "Video Editors",
       "Newsletter Writers"
     ],
-    "name": "Picyard",
+    "name": "Pika Style",
     "category": "Mockups Generator",
-    "description": "Picyard transforms ordinary screenshots into stunning visuals with just a few clicks. Whether you need polished mockups, professional device previews, or beautifully styled code snippets, Picyard makes the process effortless—no design skills required.",
-    "website": "https://www.picyard.in?via=contentcreationtools",
-    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1743338194674-picyard.png"
+    "description": "Pika Style is a powerful screenshot and mockup generator designed for developers, designers, and content creators. It helps users create branded and visually appealing screenshots for social media, app store listings, and marketing materials with ease.",
+    "website": "https://pika.style/?via=contentcreationtools",
+    "logo": "https://raw.githubusercontent.com/roubalsehgal/content-creation-tools-cms/main/images/tools/1743338458923-pika-style.png"
   }
 ]
